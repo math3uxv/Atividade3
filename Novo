@@ -1,4 +1,4 @@
-package Primeira;
+package Atividade3;
 
 public class Novo extends Imovel {
    
